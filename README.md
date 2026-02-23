@@ -18,42 +18,46 @@
 
 ---
 
-### 📊 Performance Analytics
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-codesOP&show_icons=true&theme=dark&hide_border=true&title_color=7CF8A9&icon_color=7CF8A9&text_color=ffffff" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-codesOP&layout=compact&theme=dark&hide_border=true&title_color=7CF8A9&text_color=ffffff" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Adarsh%20Codes%20OP&fontSize=70" width="100%" />
+
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=42f59e&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-codesOP&theme=dark&hide_border=true&stroke=7CF8A9&ring=7CF8A9&fire=7CF8A9" width="100%" />
-</div>
+---
+
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-codesOP&show_icons=true&theme=transparent&title_color=42f59e&icon_color=42f59e&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-codesOP&layout=compact&theme=transparent&title_color=42f59e&text_color=ffffff&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🏆 Achievement Showcase
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh-codesOP&theme=darkhub&no-bg=true&margin-w=15&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh-codesOP&theme=algolia&no-bg=true&column=4" alt="Trophies" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-* **ContriBlock** – Blockchain-based contribution platform.
-* **Chat with Your Database** – AI-driven natural language DB interaction.
-* **opn** – Rust-based CLI application launcher for Windows.
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,react,nextjs,nodejs,mongodb,docker,git,cpp,java,aws,html,css" />
+</p>
 
 ---
 
+### 🚀 Key Projects
+- **ContriBlock** - Blockchain contribution platform
+- **opn** - Rust-based CLI launcher
+- **Chat with DB** - AI Natural Language SQL interface
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  <br>
-  <sub>Made by by <a href="https://github.com/Adarsh-codesOP">Adarsh-codesOP</a></sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-codesOP&theme=transparent&stroke=42f59e&fire=42f59e&ring=42f59e&hide_border=true" width="100%" />
 </div>
