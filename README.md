@@ -49,16 +49,15 @@
 ---
 
 ### 🏆 Hall of Fame
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh-codesOP&theme=shades-of-purple&no-bg=true&column=4&margin-w=20" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh-codesOP&theme=juicyfresh&no-bg=true&column=4" alt="Trophies" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=neon" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-contribution-snake.svg" alt="Snake Animation" />
-  <br/>
-  <sub>SYSTEM STATUS: <b>OPERATIONAL</b> | OWNER: <b>ADARSH-CODESOP</b></sub>
-</div>
+### 🐍 My Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-contribution-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-contribution-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-contribution-snake.svg">
+</picture>
