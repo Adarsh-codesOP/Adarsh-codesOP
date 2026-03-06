@@ -18,25 +18,7 @@
 
 ---
 
-<div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ██╗  ██╗██╗   ██╗██╗██╗     ██████╗     ██╗  ██╗███████╗██████╗  ║
-║   ██║  ██║██║   ██║██║██║     ██╔══██╗    ██║  ██║██╔════╝██╔══██╗ ║
-║   ███████║██║   ██║██║██║     ██║  ██║    ███████║█████╗  ██████╔╝ ║
-║   ██╔══██║██║   ██║██║██║     ██║  ██║    ██╔══██║██╔══╝  ██╔══██╗ ║
-║   ██║  ██║╚██████╔╝██║███████╗██████╔╝    ██║  ██║███████╗██║  ██║ ║
-║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚══════╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ║
-║                                                                      ║
-║         B U I L D . L E A R N . I M P R O V E . R E P E A T        ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 ## 👾 `whoami`
 
@@ -290,49 +272,6 @@ Natural language → SQL → **beautiful visualizations**. Supports PostgreSQL, 
 
 [![View Repo](https://img.shields.io/badge/🗄️_AskDB-View_on_GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Adarsh-codesOP)
 
----
-
-### 🎵 Voting-Based Music Player &nbsp;&nbsp; 🎬 IAM Movie Recommender &nbsp;&nbsp; 📝 Video-to-Notes
-
-<table>
-<tr>
-<td width="33%">
-
-**🎵 Voting Music Player**
-
-Group music where everyone's taste counts. A fairness algorithm prevents majority tyranny — minority preferences still get played.
-
-`React` `Node.js` `WebSockets` `Redis`
-
-[![Repo](https://img.shields.io/badge/View-1DB954?style=flat-square&logo=github&logoColor=white)](https://github.com/Adarsh-codesOP)
-
-</td>
-<td width="33%">
-
-**🎬 IAM — Movie Recommender**
-
-Goes beyond genre matching. Understands your mood and emotional context to recommend films that truly resonate.
-
-`Python` `Hugging Face` `React` `AI/ML`
-
-[![Repo](https://img.shields.io/badge/View-E50914?style=flat-square&logo=github&logoColor=white)](https://github.com/Adarsh-codesOP)
-
-</td>
-<td width="33%">
-
-**📝 Video-to-Notes**
-
-Drop a lecture video → get structured PDF notes. Audio extraction → transcription → NLP summarization → clean PDF.
-
-`Python` `MoviePy` `FFmpeg` `DistilBERT`
-
-[![Repo](https://img.shields.io/badge/View-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/Adarsh-codesOP/video-to-notes)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Stats
 
@@ -359,27 +298,6 @@ Drop a lecture video → get structured PDF notes. Audio extraction → transcri
 
 </div>
 
----
-
-## 🎯 2026 Roadmap
-
-<div align="center">
-
-| Status | Mission |
-|:------:|---------|
-| ✅ | Ship ContriBlock MVP with live blockchain integration |
-| ✅ | Build AskDB with multi-database + Gemini AI support |
-| ✅ | Build ACE — persistent memory engine for AI |
-| 🔥 | Launch Klein as a production open-source TUI IDE |
-| 🔲 | Deploy 5 production-grade, real-world applications |
-| 🔲 | Master distributed systems & system design at scale |
-| 🔲 | Contribute to open-source AI/ML tooling |
-| 🔲 | Hit 100+ GitHub stars across projects |
-| 🔲 | Land a full-stack / AI engineering role |
-
-</div>
-
----
 
 ## 🤝 Let's Build Something
 
@@ -388,8 +306,8 @@ Drop a lecture video → get structured PDF notes. Audio extraction → transcri
 *Always open to interesting projects, collabs, and conversations.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Adarsh--codesOP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-codesOP)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-as-oo7)
+[![Email](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshas.work@gmail.com)
 
 <br/>
 
