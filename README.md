@@ -300,6 +300,16 @@ Natural language → SQL → **beautiful visualizations**. Supports PostgreSQL, 
 
 [![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-codesOP&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00fff7&line=7b2fff&point=ff00c8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake.svg" />
+  <img alt="github contribution snake" 
+       src="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake.svg" />
+</picture>
+
+
 </div>
 
 
@@ -318,16 +328,7 @@ Natural language → SQL → **beautiful visualizations**. Supports PostgreSQL, 
 > 💬 *"The best tools are the ones you build because you're tired of the existing ones."*
 
 </div>
----
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake.svg" />
-  <img alt="github contribution snake" 
-       src="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake.svg" />
-</picture>
----
+
 ---
 
 <div align="center">
