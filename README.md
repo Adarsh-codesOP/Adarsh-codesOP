@@ -150,7 +150,7 @@ A **blockchain-based platform** where your research, knowledge, and creative wor
 - ✅ Decentralized file ownership via IPFS
 - ✅ Transparent reward distribution via smart contracts
 
-[![View Repo](https://img.shields.io/badge/⛓️_ContriBlock-View_on_GitHub-7b2fff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-codesOP)
+[![View Repo](https://img.shields.io/badge/⛓️_ContriBlock-View_on_GitHub-7b2fff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-codesOP/ContriBlock.git)
 
 ---
 
@@ -188,7 +188,7 @@ A **full IDE that lives in your terminal**. Multi-tab editing, integrated termin
 | 🌳 File Tree | Full project navigation like a real IDE |
 | ⚡ Lightweight | Minimal memory footprint, maximum speed |
 
-[![View Repo](https://img.shields.io/badge/🖥️_Klein-View_on_GitHub-00fff7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Adarsh-codesOP)
+[![View Repo](https://img.shields.io/badge/🖥️_Klein-View_on_GitHub-00fff7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Adarsh-codesOP/Klein.git)
 
 ---
 
@@ -223,7 +223,7 @@ Gives AI assistants what they've always lacked — **persistent memory**. ACE st
 - ✅ Auto-injects relevant context during interactions
 - ✅ Makes AI behave like a real assistant, not a goldfish
 
-[![View Repo](https://img.shields.io/badge/🧠_ACE-View_on_GitHub-ff00c8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-codesOP)
+[![View Repo](https://img.shields.io/badge/🧠_ACE-View_on_GitHub-ff00c8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-codesOP/ACE)
 
 ---
 
@@ -270,7 +270,7 @@ Natural language → SQL → **beautiful visualizations**. Supports PostgreSQL, 
 - ✅ Conversational analytics with follow-up questions
 - ✅ Intelligent query suggestions
 
-[![View Repo](https://img.shields.io/badge/🗄️_AskDB-View_on_GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Adarsh-codesOP)
+[![View Repo](https://img.shields.io/badge/🗄️_AskDB-View_on_GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Adarsh-codesOP/askDB.git)
 
 
 ## 📊 GitHub Stats
