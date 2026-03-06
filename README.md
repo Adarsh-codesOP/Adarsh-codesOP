@@ -302,11 +302,11 @@ Natural language → SQL → **beautiful visualizations**. Supports PostgreSQL, 
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake-dark.svg" />
+          srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake.svg" />
-  <img alt="github contribution snake" 
-       src="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake.svg" />
+          srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-contribution-snake.svg" />
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-contribution-snake.svg" />
 </picture>
 
 
