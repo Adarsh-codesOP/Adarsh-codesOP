@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=Adarsh-CodesOP" />
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=Adarsh-CodesOP&theme=crt" />
 
 </div>
 
