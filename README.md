@@ -280,8 +280,9 @@ Natural language → SQL → **beautiful visualizations**. Supports PostgreSQL, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-codesOP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00fff7&icon_color=7b2fff&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-codesOP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00fff7&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adarsh-codesOP&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adarsh-codesOP&layout=compact&theme=tokyonight" />
 
 </div>
 
