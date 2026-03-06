@@ -318,7 +318,16 @@ Natural language → SQL → **beautiful visualizations**. Supports PostgreSQL, 
 > 💬 *"The best tools are the ones you build because you're tired of the existing ones."*
 
 </div>
-
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake.svg" />
+  <img alt="github contribution snake" 
+       src="https://raw.githubusercontent.com/Adarsh-codesOP/Adarsh-codesOP/output/github-snake.svg" />
+</picture>
+---
 ---
 
 <div align="center">
