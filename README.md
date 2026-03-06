@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=Adarsh-CodesOP&theme=crt" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff7,50:7b2fff,100:ff00c8&height=250&section=header&text=ADARSH%20A%20S&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=⚡%20Full-Stack%20Dev%20%7C%20AI%2FML%20Builder%20%7C%20Blockchain%20Pioneer%20%7C%20CSE%204th%20Year%20⚡&descAlignY=62&descSize=15&stroke=ffffff&strokeWidth=2&animation=fadeIn" />
 
 </div>
 
